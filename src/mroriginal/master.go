@@ -1,7 +1,7 @@
 package mroriginal
 
 import (
-	"Mit6824/src/mr"
+	"../mr"
 	"log"
 )
 import "net"

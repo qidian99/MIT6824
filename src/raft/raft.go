@@ -25,7 +25,7 @@ import (
 	"time"
 )
 import "sync/atomic"
-import "Mit6824/src/labrpc"
+import "../labrpc"
 
 // import "bytes"
 // import "labgob"

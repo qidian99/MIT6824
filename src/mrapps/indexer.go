@@ -7,7 +7,7 @@ package main
 //
 
 import "fmt"
-import "Mit6824/src/mr"
+import "../mr"
 
 import "strings"
 import "unicode"
